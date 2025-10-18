@@ -6,8 +6,9 @@ programa
 		inteiro vetorEntrada[] = {0,0,0,0,0,0,0,0,0,0},
 			   indicesImpares[] = {0,0,0,0,0},
 			   elementosPares[] = {0,0,0,0,0},
-			   resultadoSoma = 0,
-			   resultadoMedia = 0
+			   resultadoSoma = 0
+			   
+		real resultadoMedia = 0
 			   //vetorTeste[] = {2, 5, 1, 3, 4, 9, 7, 8, 10, 6}
 
 		para (inteiro i = 0; i < 10; i++)
@@ -84,9 +85,9 @@ programa
 		retorne resultado
 	}
 
-	funcao inteiro media(inteiro vetor[], inteiro resultadoSoma)
+	funcao real media(inteiro vetor[], inteiro resultadoSoma)
 	{
-		inteiro resultadoMedia = resultadoSoma / 10
+		real resultadoMedia = resultadoSoma / 10
 		retorne resultadoMedia
 	}
 }
@@ -99,8 +100,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1817; 
- * @DOBRAMENTO-CODIGO = [48, 61, 75, 86];
+ * @POSICAO-CURSOR = 1748; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
