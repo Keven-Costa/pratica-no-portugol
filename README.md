@@ -12,7 +12,7 @@ Repositório dedicado à resolução dos exercícios práticos de Lógica de Pro
 
 ## <a id="ex-01"></a>  Exercício - 01
 
- [Código do Exercício - 01](#)
+ [Código do Exercício - 01](#https://github.com/Keven-Costa/pratica-no-portugol/blob/main/ex-01.por)
 
 Saída:
 ```
@@ -32,7 +32,7 @@ Programa finalizado. Tempo de execução: 22 milissegundos
 
 ## <a id="ex-02"></a>  Exercício - 02
 
-[Código do Exercício - 02](#)
+[Código do Exercício - 02](#https://github.com/Keven-Costa/pratica-no-portugol/blob/main/ex-02.por)
 
 Saída:
 ```
