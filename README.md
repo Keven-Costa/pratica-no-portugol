@@ -16,18 +16,9 @@ Repositório dedicado à resolução dos exercícios práticos de Lógica de Pro
 
 Saída:
 ```
-vetor[0] = 10
-vetor[1] = 9
-vetor[2] = 8
-vetor[3] = 7
-vetor[4] = 6
-vetor[5] = 5
-vetor[6] = 4
-vetor[7] = 3
-vetor[8] = 2
-vetor[9] = 1
+vetor 10 9 8 7 6 5 4 3 2 1 
 
-Programa finalizado. Tempo de execução: 22 milissegundos
+Programa finalizado. Tempo de execução: 19 milissegundos
 ```
 
 ## <a id="ex-02"></a>  Exercício - 02
